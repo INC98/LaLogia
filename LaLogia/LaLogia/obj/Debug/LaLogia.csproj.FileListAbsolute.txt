@@ -1,0 +1,13 @@
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\bin\Debug\LaLogia.exe.config
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\bin\Debug\LaLogia.exe
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\bin\Debug\LaLogia.pdb
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\obj\Debug\LaLogia.csproj.AssemblyReference.cache
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\obj\Debug\LaLogia.Form1.resources
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\obj\Debug\LaLogia.Properties.Resources.resources
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\obj\Debug\LaLogia.csproj.GenerateResource.cache
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\obj\Debug\LaLogia.csproj.CoreCompileInputs.cache
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\obj\Debug\LaLogia.exe
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\obj\Debug\LaLogia.pdb
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\bin\Debug\Logica.dll
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\bin\Debug\Logica.pdb
+C:\Users\RY34296\source\repos\LaLogia\LaLogia\obj\Debug\LaLogia.csproj.CopyComplete

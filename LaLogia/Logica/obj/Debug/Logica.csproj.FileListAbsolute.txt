@@ -1,0 +1,6 @@
+C:\Users\RY34296\source\repos\LaLogia\Logica\bin\Debug\Logica.dll
+C:\Users\RY34296\source\repos\LaLogia\Logica\bin\Debug\Logica.pdb
+C:\Users\RY34296\source\repos\LaLogia\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\RY34296\source\repos\LaLogia\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\RY34296\source\repos\LaLogia\Logica\obj\Debug\Logica.dll
+C:\Users\RY34296\source\repos\LaLogia\Logica\obj\Debug\Logica.pdb
